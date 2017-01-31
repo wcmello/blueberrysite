@@ -1,0 +1,67 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "4c0f3dae405bfa551059b54143ecf078",
+    "packages": [
+        {
+            "name": "mikescops/moddernfolio",
+            "version": "v2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Mikescops/ModdernFolio.git",
+                "reference": "e757306d074811c48302095366a2143c62b8301f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Mikescops/ModdernFolio/zipball/e757306d074811c48302095366a2143c62b8301f",
+                "reference": "e757306d074811c48302095366a2143c62b8301f",
+                "shasum": ""
+            },
+            "require": {
+                "bolt/bolt": "^3.0"
+            },
+            "type": "bolt-theme",
+            "extra": {
+                "bolt-screenshots": [
+                    "screenshots/home.png",
+                    "screenshots/internal.png",
+                    "screenshots/listing.png"
+                ],
+                "bolt-icon": "icon-moddernfolio.png"
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Corentin Mors",
+                    "email": "mikescops@pixelswap.fr"
+                }
+            ],
+            "description": "ModdernFolio is a basic portfolio theme, to showcase anything you want.",
+            "keywords": [
+                "foundation",
+                "portfolio",
+                "sass",
+                "showcase",
+                "theme"
+            ],
+            "support": {
+                "source": "https://github.com/Mikescops/ModdernFolio/tree/v2.0.0",
+                "issues": "https://github.com/Mikescops/ModdernFolio/issues"
+            },
+            "time": "2016-05-02T19:36:51+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": true,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
