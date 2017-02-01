@@ -12,15 +12,16 @@ database:
     databasename: blueberry
 
 # The name of the website
-sitename: A sample site
-payoff: The amazing payoff goes here
+sitename: Blueberry
+payoff: The best servers in europe
+headerphoto: logo.png
 
 # The theme to use. Be sure to copy the {theme_path}/base-2016 folder, and
 # change the name here accordingly.
 #
 # Don't edit the templates in theme/base-2016, because they _will_ get updated
 # in next releases
-theme: moddernfolio
+theme: blueberry
 
 # The locale that'll be used by the application. If no locale is set the
 # fallback locale is 'en_GB'. For available options, see:
